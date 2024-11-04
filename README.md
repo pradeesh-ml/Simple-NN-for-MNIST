@@ -4,7 +4,7 @@ This project demonstrates a two-layer neural network built from scratch using Py
 
 ## Sample Output Images
 
-![Screenshot 2024-11-04 124428](https://github.com/user-attachments/assets/1e84594d-d1c0-4399-9eb5-712ed470ba70) ![Screenshot 2024-11-04 124455](https://github.com/user-attachments/assets/925232de-72d4-4712-a140-e8aa41ecfcbe)
+![Screenshot 2024-11-04 124428](https://github.com/user-attachments/assets/1e84594d-d1c0-4399-9eb5-712ed470ba70)![Screenshot 2024-11-04 124455](https://github.com/user-attachments/assets/925232de-72d4-4712-a140-e8aa41ecfcbe)
 
 
 ## Table of Contents
