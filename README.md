@@ -2,7 +2,8 @@
 
 This project demonstrates a two-layer neural network built from scratch using Python and NumPy, designed to classify handwritten digits from the MNIST dataset. The neural network consists of ReLU and Softmax activations and is trained using backpropagation and gradient descent.
 
-![Sample Image](./images/sample_prediction.png) 
+![Sample Image](![Screenshot 2024-11-04 124428](https://github.com/user-attachments/assets/1e84594d-d1c0-4399-9eb5-712ed470ba70)
+) 
 
 ## Table of Contents
 
