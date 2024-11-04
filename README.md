@@ -68,5 +68,5 @@ This project aims to implement a simple, fully-connected neural network from scr
 
 ## License 
 
-    This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.
 
